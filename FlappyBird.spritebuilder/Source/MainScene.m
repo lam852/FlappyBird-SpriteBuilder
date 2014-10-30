@@ -13,7 +13,7 @@
 {
     CGPoint _ratio;
     CGPoint _offset;
-    CCNode *__unsafe_unretained _child; //weak ref
+    CCNode *__unsafe_unretained _child; // weak ref
 
 }
 @property (nonatomic, readwrite) CGPoint ratio;
